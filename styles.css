@@ -6,6 +6,7 @@
 
 body{
     background-color: grey;
+    font-family: 'Libre Franklin', sans-serif;
 }
 
 .container{
@@ -40,6 +41,8 @@ body{
 
 .container li{
     color: rgb(0, 0, 184);
+    font-size: 15px;
+    font-weight: bold;
 }
 
 .container li a {
